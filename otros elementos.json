@@ -1,7 +1,7 @@
 [{
 "nombre":"Control Remoto",
 "descripcion":" Dispositivo de radio control que permite controlar el aeromodelo.",
-"precio" 200:,
+"precio": 200,
 "tipo":"Electrónica",
 "imagen":"https://github.com/Isarquis/DatosDSW/blob/main/control-171251547-612x612.jpg"
 },
